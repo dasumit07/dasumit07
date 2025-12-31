@@ -71,13 +71,14 @@ My goal is to become a professional **Full Stack Web Developer**.
 ## 📊 GitHub Statistics
 <!-- ===================== GITHUB STATS ===================== -->
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dasumit07&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=dasumit07&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://ghproxy.com/https://github-readme-stats.vercel.app/api?username=dasumit07&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://ghproxy.com/https://streak-stats.demolab.com?user=dasumit07&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dasumit07&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="45%" src="https://ghproxy.com/https://github-readme-stats.vercel.app/api/top-langs/?username=dasumit07&layout=compact&theme=tokyonight" />
 </p>
+
 
 
 
