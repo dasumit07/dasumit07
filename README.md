@@ -1,42 +1,38 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=220&section=header&text=Sumit%20Das&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Web%20Developer&descAlignY=65"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=220&section=header&text=Sumit%20Das&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=MERN%20Stack%20Web%20Developer&descAlignY=65"/>
 </p>
 
-<!-- ===================== INTRO ===================== -->
-<h3 align="center">
-  MERN Stack Web Developer 
-</h3>
+<h3 align="center">MERN Stack Web Developer</h3>
 
 <!-- ===================== SOCIAL LINKS ===================== -->
 <p align="center">
-  <a href="https://github.com/dasumit07" target="_blank">
+  <a href="https://github.com/dasumit07">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:sd3034734@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
 
 ---
 
 ## 👨‍💻 About Me
 I’m **Sumit Das**, a passionate **MERN Stack Developer** from Bangladesh.  
-I enjoy building scalable web applications, REST APIs, and modern user interfaces.  
-Currently focused on improving backend performance and learning modern full-stack tools.  
-My goal is to become a professional **Full Stack Web Developer**.
+I build scalable web applications and REST APIs with a focus on clean architecture.  
+Currently improving backend performance and learning modern full-stack tools.  
+My long-term goal is to become a professional **Full Stack Web Developer**.
 
 ---
 
 ## 🚀 Current Activities
-- 🔍 Exploring **Next.js** for server-side rendering
-- 🏗 Working on a **Tourism Website** project
-- ⚙ Improving backend skills with **Node.js & MongoDB**
-- 📚 Practicing clean code & API design
+- 🔍 Exploring **Next.js**
+- 🏗 Building a **Tourism Website**
+- ⚙ Practicing backend with **Node.js & MongoDB**
+- 📚 Improving clean code & API design
 
 ---
 
@@ -67,24 +63,16 @@ My goal is to become a professional **Full Stack Web Developer**.
 </p>
 
 ---
-## 📊 GitHub Activity
 
-![GitHub Activity Graph](https://github.com/dasumit07?tab=overview&from=2024-01-01&to=2025-12-31)
+## 📊 GitHub Summary
+- 🔢 Public Repositories: 10+
+- 🧠 Primary Stack: MERN
+- 🔥 Regular contributor
+- 🎯 Focused on Backend & APIs
 
+👉 *Detailed contribution graph is available in the GitHub activity section.*
 
-## 📊 GitHub Statistics
-<!-- ===================== GITHUB STATS ===================== -->
-<p align="center">
-  <img width="48%" src="https://ghproxy.com/https://github-readme-stats.vercel.app/api?username=dasumit07&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://ghproxy.com/https://streak-stats.demolab.com?user=dasumit07&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="45%" src="https://ghproxy.com/https://github-readme-stats.vercel.app/api/top-langs/?username=dasumit07&layout=compact&theme=tokyonight" />
-</p>
-
-
-
+---
 
 ## 📈 Profile Views
 <p>
