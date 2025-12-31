@@ -71,8 +71,6 @@ My goal is to become a professional **Full Stack Web Developer**.
 - 🧠 Strong focus on Backend & APIs
 - 📌 Clean & scalable code practices
 
-👉 **View full activity:**  
-🔗 https://github.com/dasumit07
 
 ---
 
