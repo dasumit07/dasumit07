@@ -8,11 +8,19 @@
   Full Stack Web Developer | MERN Stack
 </h3>
 
+<!-- ===================== SOCIAL LINKS ===================== -->
 <p align="center">
-  <a href="mailto:sd3034734@gmail.com">📧 Email</a> •
-  <a href="https://github.com/dasumit07" target="_blank">🐙 GitHub</a> •
-  <a href="https://www.linkedin.com/" target="_blank">💼 LinkedIn</a>
+  <a href="https://github.com/dasumit07" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:sd3034734@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
+
 
 ---
 
@@ -61,16 +69,16 @@ My goal is to become a professional **Full Stack Web Developer**.
 ---
 
 ## 📊 GitHub Statistics
+<!-- ===================== GITHUB STATS ===================== -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dasumit07&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dasumit07&theme=tokyonight" width="48%"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dasumit07&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=dasumit07&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasumit07&layout=compact&theme=tokyonight"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasumit07&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
 
 ## 📈 Profile Views
 <p>
