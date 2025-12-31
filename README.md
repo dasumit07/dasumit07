@@ -67,6 +67,10 @@ My goal is to become a professional **Full Stack Web Developer**.
 </p>
 
 ---
+## 📊 GitHub Activity
+
+![GitHub Activity Graph](https://github.com/dasumit07?tab=overview&from=2024-01-01&to=2025-12-31)
+
 
 ## 📊 GitHub Statistics
 <!-- ===================== GITHUB STATS ===================== -->
