@@ -22,17 +22,17 @@
 
 ## 👨‍💻 About Me
 I’m **Sumit Das**, a passionate **MERN Stack Developer** from Bangladesh.  
-I build scalable web applications and REST APIs with a focus on clean architecture.  
-Currently improving backend performance and learning modern full-stack tools.  
-My long-term goal is to become a professional **Full Stack Web Developer**.
+I enjoy building scalable web applications, REST APIs, and modern user interfaces.  
+Currently focusing on backend performance and real-world project development.  
+My goal is to become a professional **Full Stack Web Developer**.
 
 ---
 
 ## 🚀 Current Activities
 - 🔍 Exploring **Next.js**
-- 🏗 Building a **Tourism Website**
-- ⚙ Practicing backend with **Node.js & MongoDB**
-- 📚 Improving clean code & API design
+- 🏗 Building a **Public-Infrastructure-Issue-Reporting-System Website**
+- ⚙ Working with **Node.js & MongoDB**
+- 📚 Practicing clean code & API design
 
 ---
 
@@ -54,7 +54,7 @@ My long-term goal is to become a professional **Full Stack Web Developer**.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
 </p>
 
-### 🧰 Tools & Platforms
+### 🧰 Tools
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
@@ -65,22 +65,21 @@ My long-term goal is to become a professional **Full Stack Web Developer**.
 ---
 
 ## 📊 GitHub Summary
-- 🔢 Public Repositories: 10+
-- 🧠 Primary Stack: MERN
-- 🔥 Regular contributor
-- 🎯 Focused on Backend & APIs
+- 🔢 Active MERN Stack Developer
+- 📦 Multiple full-stack projects
+- 🔁 Regular contributor
+- 🧠 Strong focus on Backend & APIs
+- 📌 Clean & scalable code practices
 
-👉 *Detailed contribution graph is available in the GitHub activity section.*
+👉 **View full activity:**  
+🔗 https://github.com/dasumit07
 
 ---
 
 ## 📈 Profile Views
-<p>
-  <img src="https://komarev.com/ghpvc/?username=dasumit07&label=Profile%20Views&color=0ea5e9&style=flat"/>
-</p>
+<img src="https://komarev.com/ghpvc/?username=dasumit07&label=Profile%20Views&color=0ea5e9&style=flat"/>
 
 ---
 
 ## 💬 Quote
 > *“First, solve the problem. Then, write the code.”*
-
