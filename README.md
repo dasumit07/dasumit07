@@ -5,7 +5,7 @@
 
 <!-- ===================== INTRO ===================== -->
 <h3 align="center">
-  Full Stack Web Developer | MERN Stack
+  MERN Stack Web Developer 
 </h3>
 
 <!-- ===================== SOCIAL LINKS ===================== -->
